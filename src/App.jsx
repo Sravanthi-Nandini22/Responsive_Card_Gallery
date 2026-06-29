@@ -5,7 +5,7 @@ import CardDetails from './pages/CardDetails';
 import About from './pages/About';
 import Contact from './pages/Contact';
 import Navbar from './Components/Navbar';
-import Footer from './Components/Footer';
+import Footer from './Components/Footer'; 
 import './App.css';
 
 function App() {
