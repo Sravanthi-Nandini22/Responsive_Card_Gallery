@@ -1,5 +1,5 @@
 import { galleryData } from '../data/items';
-import Card from '../components/Card';
+import Card from '../components/Card.jsx';
 
 const Gallery = () => {
   return (
